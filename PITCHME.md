@@ -1,8 +1,3 @@
-theme : moon
-highlight : monokai-sublime
-slide-number: true
-transition : fade
-
 ### こんにちは！
 
 
