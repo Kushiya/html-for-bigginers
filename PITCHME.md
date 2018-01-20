@@ -36,7 +36,8 @@ vscodeでデスクトップフォルダを開く
 <!--![vscode2](images/vscode2.png)-->
 ---
 
-hello-htmlフォルダを作り、その中にindex.htmlファイルを作る
+hello-htmlフォルダを作り
+その中にindex.htmlファイルを作る
 <!--![vscode3](images/vscode3.gif)-->
 ---
 
