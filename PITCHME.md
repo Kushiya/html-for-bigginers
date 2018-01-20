@@ -2,7 +2,7 @@
 ---
 
 ### こんなサイトができる
-![site-image](images/site-image.jpg)
+![site-image](images/ndearu.png)
 ---
 
 ### ホームページを作るには？
@@ -32,12 +32,12 @@ VSCODEで検索してダウンロード
 ![vscode1](images/vscode1.png)
 ---
 
-vscodeでデスクトップフォルダを作る
-![vscode2](images/vscode2.png)
+vscodeでデスクトップフォルダを開く
+<!--![vscode2](images/vscode2.png)-->
 ---
 
-hello-htmlフォルダとindex.htmlを作る
-![vscode3](images/vscode3.gif)
+hello-htmlフォルダを作り、その中にindex.htmlファイルを作る
+<!--![vscode3](images/vscode3.gif)-->
 ---
 
 ### これでHTMLを書く準備は整った。
@@ -114,7 +114,7 @@ html:5
 
 hello-htmlフォルダを開き
 index.htmlをダブルクリックするとブラウザで表示できます。
-![html](image/html1.gif)
+<!--![html](image/html1.gif)-->
 ---
 
 
